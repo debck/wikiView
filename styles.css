@@ -11,3 +11,7 @@ h1,h2{
 .arrange{
   font-size:20px;
 }
+.btn{
+	text-align: center;
+	position: center;
+}
